@@ -1,2 +1,3 @@
-# cleanup-linux
+# cleanup-linux :cd:
+
 Linux cleanup script
